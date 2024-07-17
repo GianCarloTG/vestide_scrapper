@@ -8,7 +8,7 @@ There are 2 methods to alert you:
 `post_discord` to send a notification to a discord channel
 When an alert is sent, it is cached locally in the folder `rooms` to avoid spam.
 TO RUN:
-```python3 -m venv myenv```
-```source myenv/bin/activate```
-```pip install -r requirements.txt```
-```python vestide.py```
+1. ```python3 -m venv myenv```
+2. ```source myenv/bin/activate```
+3. ```pip install -r requirements.txt```
+4. ```python vestide.py```
