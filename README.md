@@ -5,8 +5,8 @@ The crawler checks that the room has 'Toilet', 'Shower','Kitchen' independent yo
 Feel free to change the refresh time (default 2700 secs)
 
 There are 2 methods to alert you:
-<li>`send_mail` to send gmail (by default to the same account)</li>
-<li>`post_discord` to send a notification to a discord channel</li>
+<li> <b>send_mail</b> to send gmail (by default to the same account)</li>
+<li> <b>post_discord</b> to send a notification to a discord channel</li>
 
 When an alert is sent, it is cached locally in the folder `rooms` to avoid spam.
 TO RUN:
